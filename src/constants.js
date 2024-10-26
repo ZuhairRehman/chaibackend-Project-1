@@ -1,1 +1,1 @@
-const DB_NAME = "VAN_DB";
+export const DB_NAME = "zuhairtest";
